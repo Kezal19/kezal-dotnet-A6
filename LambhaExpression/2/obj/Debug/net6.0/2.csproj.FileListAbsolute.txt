@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\2.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\2.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\2.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\ref\2.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\bin\Debug\net6.0\2.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\ref\2.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\LambhaExpression\2\obj\Debug\net6.0\2.genruntimeconfig.cache

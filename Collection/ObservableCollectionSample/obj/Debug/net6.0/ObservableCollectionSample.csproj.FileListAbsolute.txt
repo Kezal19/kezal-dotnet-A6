@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache

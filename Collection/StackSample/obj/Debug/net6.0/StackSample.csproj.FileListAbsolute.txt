@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\StackSample.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\StackSample.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\StackSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\bin\Debug\net6.0\StackSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache

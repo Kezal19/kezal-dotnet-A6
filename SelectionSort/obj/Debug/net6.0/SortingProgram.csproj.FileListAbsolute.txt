@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\SortingProgram.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\SortingProgram.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\SortingProgram.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\SortingProgram.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\ref\SortingProgram.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\bin\Debug\net6.0\SortingProgram.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\ref\SortingProgram.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SortingProgram\obj\Debug\net6.0\SortingProgram.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\ref\SelectionSort.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache

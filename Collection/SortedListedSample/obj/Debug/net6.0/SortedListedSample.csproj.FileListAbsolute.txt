@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\SortedListedSample.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\SortedListedSample.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\SortedListedSample.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\SortedListedSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\ref\SortedListedSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\bin\Debug\net6.0\SortedListedSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\ref\SortedListedSample.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-6\Collection\SortedListedSample\obj\Debug\net6.0\SortedListedSample.genruntimeconfig.cache
